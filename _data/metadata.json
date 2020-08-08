@@ -1,15 +1,15 @@
 {
-  "title": "John Doe",
+  "title": "Mihai Hurjui",
   "url": "https://myurl.com/",
-  "description": "Photographer and Web Designer",
+  "description": "SEO and Projects",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my experiences as a __.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Mihai Hurjui",
     "email": "youremailaddress@example.com"
   }
 }
